@@ -1,2 +1,2 @@
 # python-basic
-python from basic tp intermediate
+python from basic to intermediate
